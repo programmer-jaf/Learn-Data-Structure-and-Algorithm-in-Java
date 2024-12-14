@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 01/AVL Trees Lecture 01.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 01/AVL Trees Lecture 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 02/AVL Trees Lecture 02.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 02/AVL Trees Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Accenture/Accenture.iml" filepath="$PROJECT_DIR$/Interview/Accenture/Accenture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Adobe/Adobe.iml" filepath="$PROJECT_DIR$/Interview/Adobe/Adobe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Interview/Amazon/Amazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Apna College.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Apna College.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Array Question/Array Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Array Question/Array Question.iml" />
@@ -144,6 +147,7 @@
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Dynamic Programming Questions/Dynamic Programming Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Dynamic Programming Questions/Dynamic Programming Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/DynamicProgramming Questions/DynamicProgramming Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/DynamicProgramming Questions/DynamicProgramming Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Fenwick Trees Questions/Fenwick Trees Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Fenwick Trees Questions/Fenwick Trees Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Google/Google.iml" filepath="$PROJECT_DIR$/Interview/Google/Google.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 01/Graph Lecture 01.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 01/Graph Lecture 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 02/Graph Lecture 02.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 02/Graph Lecture 02.iml" />
@@ -240,6 +244,7 @@
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Heap Questions/Heap Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Heap Questions/Heap Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Heaps Questions/Heaps Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Heaps Questions/Heaps Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sortings/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Sortings/Insertion Sort/Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Interview.iml" filepath="$PROJECT_DIR$/Interview/Interview.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Learn Data Structure and Algorithm in Java.iml" filepath="$PROJECT_DIR$/Learn Data Structure and Algorithm in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Array/Lecture 01/Lecture 01.iml" filepath="$PROJECT_DIR$/Array/Lecture 01/Lecture 01.iml" />
@@ -269,6 +274,7 @@
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode Blind 75/Leetcode Blind 75.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode Blind 75/Leetcode Blind 75.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode Interview Top 150/Leetcode Interview Top 150.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode Interview Top 150/Leetcode Interview Top 150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/LinkedIn/LinkedIn.iml" filepath="$PROJECT_DIR$/Interview/LinkedIn/LinkedIn.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 01/LinkedList Lecture 01.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 01/LinkedList Lecture 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 02/LinkedList Lecture 02.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 02/LinkedList Lecture 02.iml" />
@@ -322,7 +328,8 @@
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 02/OOPS Lecture 02.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 02/OOPS Lecture 02.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 03/OOPS Lecture 03.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 03/OOPS Lecture 03.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 04/OOPS Lecture 04.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 04/OOPS Lecture 04.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Pattern Printing Problems/Pattern Printing Problems.iml" filepath="$PROJECT_DIR$/Pattern Printing Problems/Pattern Printing Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Problems/Pattern Problems.iml" filepath="$PROJECT_DIR$/Pattern Problems/Pattern Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Postman/Postman.iml" filepath="$PROJECT_DIR$/Interview/Postman/Postman.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Queue Question/Queue Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Queue Question/Queue Question.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 01/Queues Lecture 01.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 01/Queues Lecture 01.iml" />
@@ -355,6 +362,7 @@
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 18/Recursion Lecture 18.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 18/Recursion Lecture 18.iml" />
       <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 19/Recursion Lecture 19.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 19/Recursion Lecture 19.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/SDE Sheet.iml" filepath="$PROJECT_DIR$/SDE Sheet/SDE Sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Saleforces/Saleforces.iml" filepath="$PROJECT_DIR$/Interview/Saleforces/Saleforces.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Searching and Sorting Question/Searching and Sorting Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Searching and Sorting Question/Searching and Sorting Question.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Searching and Sorting Questions/Searching and Sorting Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Searching and Sorting Questions/Searching and Sorting Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Searching and Sortings Question/Searching and Sortings Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Searching and Sortings Question/Searching and Sortings Question.iml" />
@@ -399,6 +407,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 09/Strings Lecture 09.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 09/Strings Lecture 09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 10/Strings Lecture 10.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 10/Strings Lecture 10.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Strings Question/Strings Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Strings Question/Strings Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Stripe/Stripe.iml" filepath="$PROJECT_DIR$/Interview/Stripe/Stripe.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 01/Tries Lecture 01.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 01/Tries Lecture 01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 02/Tries Lecture 02.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 02/Tries Lecture 02.iml" />
@@ -407,10 +416,11 @@
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 05/Tries Lecture 05.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 05/Tries Lecture 05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 06/Tries Lecture 06.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 06/Tries Lecture 06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 07/Tries Lecture 07.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 07/Tries Lecture 07.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 08/Tries Lecture 08.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 08/Tries Lecture 08.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Tries Question/Tries Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Tries Question/Tries Question.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Tries Questions/Tries Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Tries Questions/Tries Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Uber/Uber.iml" filepath="$PROJECT_DIR$/Interview/Uber/Uber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interview/Walmert/Walmert.iml" filepath="$PROJECT_DIR$/Interview/Walmert/Walmert.iml" />
     </modules>
   </component>
 </project>
