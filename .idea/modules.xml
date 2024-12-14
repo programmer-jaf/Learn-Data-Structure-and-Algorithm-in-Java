@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/2D Arrays Question/2D Arrays Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/2D Arrays Question/2D Arrays Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 01/AVL Trees Lecture 01.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 01/AVL Trees Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 02/AVL Trees Lecture 02.iml" filepath="$PROJECT_DIR$/AVL Trees/AVL Trees Lecture 02/AVL Trees Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Apna College.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Apna College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Array Question/Array Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Array Question/Array Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Arrays Question/Arrays Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Arrays Question/Arrays Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Arrays Questions/Arrays Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Arrays Questions/Arrays Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 01/Backtracking Lecture 01.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 01/Backtracking Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 02/Backtracking Lecture 02.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 02/Backtracking Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 03/Backtracking Lecture 03.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 03/Backtracking Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 04/Backtracking Lecture 04.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 04/Backtracking Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 05/Backtracking Lecture 05.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 05/Backtracking Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 06/Backtracking Lecture 06.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 06/Backtracking Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 07/Backtracking Lecture 07.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 07/Backtracking Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 08/Backtracking Lecture 08.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 08/Backtracking Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 09/Backtracking Lecture 09.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 09/Backtracking Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 10/Backtracking Lecture 10.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 10/Backtracking Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 11/Backtracking Lecture 11.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 11/Backtracking Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 12/Backtracking Lecture 12.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 12/Backtracking Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 13/Backtracking Lecture 13.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 13/Backtracking Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 14/Backtracking Lecture 14.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 14/Backtracking Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 15/Backtracking Lecture 15.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 15/Backtracking Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 16/Backtracking Lecture 16.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 16/Backtracking Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 17/Backtracking Lecture 17.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 17/Backtracking Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 18/Backtracking Lecture 18.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 18/Backtracking Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 19/Backtracking Lecture 19.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 19/Backtracking Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 20/Backtracking Lecture 20.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 20/Backtracking Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backtracking/Backtracking Lecture 21/Backtracking Lecture 21.iml" filepath="$PROJECT_DIR$/Backtracking/Backtracking Lecture 21/Backtracking Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Backtracking Question/Backtracking Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Backtracking Question/Backtracking Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Backtracking Questions/Backtracking Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Backtracking Questions/Backtracking Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Backtrackings Question/Backtrackings Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Backtrackings Question/Backtrackings Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Binary Seach Trees Questions/Binary Seach Trees Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Binary Seach Trees Questions/Binary Seach Trees Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 01/Binary Search Lecture 01.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 01/Binary Search Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 02/Binary Search Lecture 02.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 02/Binary Search Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 03/Binary Search Lecture 03.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 03/Binary Search Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 04/Binary Search Lecture 04.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 04/Binary Search Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 05/Binary Search Lecture 05.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 05/Binary Search Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 06/Binary Search Lecture 06.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 06/Binary Search Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 07/Binary Search Lecture 07.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 07/Binary Search Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 08/Binary Search Lecture 08.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 08/Binary Search Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 09/Binary Search Lecture 09.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 09/Binary Search Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 10/Binary Search Lecture 10.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 10/Binary Search Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 11/Binary Search Lecture 11.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 11/Binary Search Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 12/Binary Search Lecture 12.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 12/Binary Search Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 13/Binary Search Lecture 13.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 13/Binary Search Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 14/Binary Search Lecture 14.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 14/Binary Search Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 15/Binary Search Lecture 15.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 15/Binary Search Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 16/Binary Search Lecture 16.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 16/Binary Search Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 17/Binary Search Lecture 17.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 17/Binary Search Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 18/Binary Search Lecture 18.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 18/Binary Search Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 19/Binary Search Lecture 19.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 19/Binary Search Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 20/Binary Search Lecture 20.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 20/Binary Search Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 21/Binary Search Lecture 21.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 21/Binary Search Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 22/Binary Search Lecture 22.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 22/Binary Search Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 23/Binary Search Lecture 23.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 23/Binary Search Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 24/Binary Search Lecture 24.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 24/Binary Search Lecture 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 25/Binary Search Lecture 25.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 25/Binary Search Lecture 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 26/Binary Search Lecture 26.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 26/Binary Search Lecture 26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search/Binary Search Lecture 27/Binary Search Lecture 27.iml" filepath="$PROJECT_DIR$/Binary Search/Binary Search Lecture 27/Binary Search Lecture 27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Binary Search Tree Question/Binary Search Tree Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Binary Search Tree Question/Binary Search Tree Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" filepath="$PROJECT_DIR$/Binary Search Trees/Binary Search Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Binary Search Trees Question/Binary Search Trees Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Binary Search Trees Question/Binary Search Trees Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Binary Tree Question/Binary Tree Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Binary Tree Question/Binary Tree Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Binary Trees/Binary Trees.iml" filepath="$PROJECT_DIR$/Binary Trees/Binary Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Binary Trees Question/Binary Trees Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Binary Trees Question/Binary Trees Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Binary Trees Questions/Binary Trees Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Binary Trees Questions/Binary Trees Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 01/Bit Manipulation Lecture 01.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 01/Bit Manipulation Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 02/Bit Manipulation Lecture 02.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 02/Bit Manipulation Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 03/Bit Manipulation Lecture 03.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 03/Bit Manipulation Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 04/Bit Manipulation Lecture 04.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 04/Bit Manipulation Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 05/Bit Manipulation Lecture 05.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 05/Bit Manipulation Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 06/Bit Manipulation Lecture 06.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 06/Bit Manipulation Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 07/Bit Manipulation Lecture 07.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 07/Bit Manipulation Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 08/Bit Manipulation Lecture 08.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 08/Bit Manipulation Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 09/Bit Manipulation Lecture 09.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulation Lecture 09/Bit Manipulation Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Bit Manipulation Question/Bit Manipulation Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Bit Manipulation Question/Bit Manipulation Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bit Manipulations/Bit Manipulations.iml" filepath="$PROJECT_DIR$/Bit Manipulations/Bit Manipulations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Bit Manipulations Questions/Bit Manipulations Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Bit Manipulations Questions/Bit Manipulations Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Bubble Sort/Bubble Sort.iml" filepath="$PROJECT_DIR$/Sortings/Bubble Sort/Bubble Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Bucket Sort/Bucket Sort.iml" filepath="$PROJECT_DIR$/Sortings/Bucket Sort/Bucket Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Coder Army.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Coder Army.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collection Framework/Collection Framework.iml" filepath="$PROJECT_DIR$/Collection Framework/Collection Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Count Sort/Count Sort.iml" filepath="$PROJECT_DIR$/Sortings/Count Sort/Count Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 01/Dynamic Programming Lecture 01.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 01/Dynamic Programming Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 02/Dynamic Programming Lecture 02.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 02/Dynamic Programming Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 03/Dynamic Programming Lecture 03.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 03/Dynamic Programming Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 04/Dynamic Programming Lecture 04.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 04/Dynamic Programming Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 05/Dynamic Programming Lecture 05.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 05/Dynamic Programming Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 06/Dynamic Programming Lecture 06.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 06/Dynamic Programming Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 07/Dynamic Programming Lecture 07.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 07/Dynamic Programming Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 08/Dynamic Programming Lecture 08.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 08/Dynamic Programming Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 09/Dynamic Programming Lecture 09.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 09/Dynamic Programming Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 10/Dynamic Programming Lecture 10.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 10/Dynamic Programming Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 11/Dynamic Programming Lecture 11.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 11/Dynamic Programming Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 12/Dynamic Programming Lecture 12.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 12/Dynamic Programming Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 13/Dynamic Programming Lecture 13.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 13/Dynamic Programming Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 14/Dynamic Programming Lecture 14.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 14/Dynamic Programming Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 15/Dynamic Programming Lecture 15.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 15/Dynamic Programming Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 16/Dynamic Programming Lecture 16.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 16/Dynamic Programming Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 17/Dynamic Programming Lecture 17.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 17/Dynamic Programming Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 18/Dynamic Programming Lecture 18.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 18/Dynamic Programming Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 19/Dynamic Programming Lecture 19.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 19/Dynamic Programming Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 20/Dynamic Programming Lecture 20.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 20/Dynamic Programming Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 21/Dynamic Programming Lecture 21.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 21/Dynamic Programming Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 22/Dynamic Programming Lecture 22.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 22/Dynamic Programming Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 23/Dynamic Programming Lecture 23.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 23/Dynamic Programming Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 24/Dynamic Programming Lecture 24.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 24/Dynamic Programming Lecture 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 25/Dynamic Programming Lecture 25.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 25/Dynamic Programming Lecture 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 26/Dynamic Programming Lecture 26.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 26/Dynamic Programming Lecture 26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 27/Dynamic Programming Lecture 27.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 27/Dynamic Programming Lecture 27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 28/Dynamic Programming Lecture 28.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 28/Dynamic Programming Lecture 28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 29/Dynamic Programming Lecture 29.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 29/Dynamic Programming Lecture 29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 30/Dynamic Programming Lecture 30.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 30/Dynamic Programming Lecture 30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 31/Dynamic Programming Lecture 31.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 31/Dynamic Programming Lecture 31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 32/Dynamic Programming Lecture 32.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 32/Dynamic Programming Lecture 32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 33/Dynamic Programming Lecture 33.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 33/Dynamic Programming Lecture 33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 34/Dynamic Programming Lecture 34.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 34/Dynamic Programming Lecture 34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 35/Dynamic Programming Lecture 35.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 35/Dynamic Programming Lecture 35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 36/Dynamic Programming Lecture 36.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 36/Dynamic Programming Lecture 36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 37/Dynamic Programming Lecture 37.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 37/Dynamic Programming Lecture 37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 38/Dynamic Programming Lecture 38.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 38/Dynamic Programming Lecture 38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 39/Dynamic Programming Lecture 39.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 39/Dynamic Programming Lecture 39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 40/Dynamic Programming Lecture 40.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 40/Dynamic Programming Lecture 40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 41/Dynamic Programming Lecture 41.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 41/Dynamic Programming Lecture 41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 42/Dynamic Programming Lecture 42.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 42/Dynamic Programming Lecture 42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 43/Dynamic Programming Lecture 43.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 43/Dynamic Programming Lecture 43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 44/Dynamic Programming Lecture 44.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 44/Dynamic Programming Lecture 44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 45/Dynamic Programming Lecture 45.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 45/Dynamic Programming Lecture 45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 46/Dynamic Programming Lecture 46.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 46/Dynamic Programming Lecture 46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 47/Dynamic Programming Lecture 47.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 47/Dynamic Programming Lecture 47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 48/Dynamic Programming Lecture 48.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 48/Dynamic Programming Lecture 48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 49/Dynamic Programming Lecture 49.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 49/Dynamic Programming Lecture 49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 50/Dynamic Programming Lecture 50.iml" filepath="$PROJECT_DIR$/Dynamic Programming/Dynamic Programming Lecture 50/Dynamic Programming Lecture 50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Dynamic Programming Question/Dynamic Programming Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Dynamic Programming Question/Dynamic Programming Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Dynamic Programming Questions/Dynamic Programming Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Dynamic Programming Questions/Dynamic Programming Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/DynamicProgramming Questions/DynamicProgramming Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/DynamicProgramming Questions/DynamicProgramming Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Fenwick Trees Questions/Fenwick Trees Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Fenwick Trees Questions/Fenwick Trees Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph.iml" filepath="$PROJECT_DIR$/Graph/Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 01/Graph Lecture 01.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 01/Graph Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 02/Graph Lecture 02.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 02/Graph Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 03/Graph Lecture 03.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 03/Graph Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 04/Graph Lecture 04.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 04/Graph Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 05/Graph Lecture 05.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 05/Graph Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 06/Graph Lecture 06.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 06/Graph Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 07/Graph Lecture 07.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 07/Graph Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 08/Graph Lecture 08.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 08/Graph Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 09/Graph Lecture 09.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 09/Graph Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 10/Graph Lecture 10.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 10/Graph Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 11/Graph Lecture 11.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 11/Graph Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 12/Graph Lecture 12.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 12/Graph Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 13/Graph Lecture 13.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 13/Graph Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 14/Graph Lecture 14.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 14/Graph Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 15/Graph Lecture 15.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 15/Graph Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 16/Graph Lecture 16.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 16/Graph Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 17/Graph Lecture 17.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 17/Graph Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 18/Graph Lecture 18.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 18/Graph Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 19/Graph Lecture 19.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 19/Graph Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 20/Graph Lecture 20.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 20/Graph Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 21/Graph Lecture 21.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 21/Graph Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 22/Graph Lecture 22.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 22/Graph Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 23/Graph Lecture 23.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 23/Graph Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 24/Graph Lecture 24.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 24/Graph Lecture 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 25/Graph Lecture 25.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 25/Graph Lecture 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 26/Graph Lecture 26.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 26/Graph Lecture 26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 27/Graph Lecture 27.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 27/Graph Lecture 27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 28/Graph Lecture 28.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 28/Graph Lecture 28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 29/Graph Lecture 29.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 29/Graph Lecture 29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 30/Graph Lecture 30.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 30/Graph Lecture 30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 31/Graph Lecture 31.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 31/Graph Lecture 31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 32/Graph Lecture 32.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 32/Graph Lecture 32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 33/Graph Lecture 33.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 33/Graph Lecture 33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 34/Graph Lecture 34.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 34/Graph Lecture 34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 35/Graph Lecture 35.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 35/Graph Lecture 35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 36/Graph Lecture 36.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 36/Graph Lecture 36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 37/Graph Lecture 37.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 37/Graph Lecture 37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 38/Graph Lecture 38.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 38/Graph Lecture 38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 39/Graph Lecture 39.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 39/Graph Lecture 39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 40/Graph Lecture 40.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 40/Graph Lecture 40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 41/Graph Lecture 41.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 41/Graph Lecture 41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 42/Graph Lecture 42.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 42/Graph Lecture 42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 43/Graph Lecture 43.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 43/Graph Lecture 43.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 44/Graph Lecture 44.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 44/Graph Lecture 44.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 45/Graph Lecture 45.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 45/Graph Lecture 45.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 46/Graph Lecture 46.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 46/Graph Lecture 46.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 47/Graph Lecture 47.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 47/Graph Lecture 47.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 48/Graph Lecture 48.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 48/Graph Lecture 48.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 49/Graph Lecture 49.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 49/Graph Lecture 49.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 50/Graph Lecture 50.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 50/Graph Lecture 50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 51/Graph Lecture 51.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 51/Graph Lecture 51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 52/Graph Lecture 52.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 52/Graph Lecture 52.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 53/Graph Lecture 53.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 53/Graph Lecture 53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 54/Graph Lecture 54.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 54/Graph Lecture 54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 55/Graph Lecture 55.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 55/Graph Lecture 55.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graph/Graph Lecture 56/Graph Lecture 56.iml" filepath="$PROJECT_DIR$/Graph/Graph Lecture 56/Graph Lecture 56.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Graph Question/Graph Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Graph Question/Graph Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Graph Questions/Graph Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Graph Questions/Graph Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Graphs Questions/Graphs Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Graphs Questions/Graphs Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 01/Greedy Lecture 01.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 01/Greedy Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 02/Greedy Lecture 02.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 02/Greedy Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 03/Greedy Lecture 03.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 03/Greedy Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 04/Greedy Lecture 04.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 04/Greedy Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 05/Greedy Lecture 05.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 05/Greedy Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 06/Greedy Lecture 06.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 06/Greedy Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 07/Greedy Lecture 07.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 07/Greedy Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 08/Greedy Lecture 08.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 08/Greedy Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 09/Greedy Lecture 09.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 09/Greedy Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 10/Greedy Lecture 10.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 10/Greedy Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 11/Greedy Lecture 11.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 11/Greedy Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 12/Greedy Lecture 12.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 12/Greedy Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy/Greedy Lecture 13/Greedy Lecture 13.iml" filepath="$PROJECT_DIR$/Greedy/Greedy Lecture 13/Greedy Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Greedy Question/Greedy Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Greedy Question/Greedy Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Greedy Questions/Greedy Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Greedy Questions/Greedy Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Greedys Question/Greedys Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Greedys Question/Greedys Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Greedys Questions/Greedys Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Greedys Questions/Greedys Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashMap/HashMap.iml" filepath="$PROJECT_DIR$/HashMap/HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Hashing Questions/Hashing Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Hashing Questions/Hashing Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap.iml" filepath="$PROJECT_DIR$/Heap/Heap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 01/Heap Lecture 01.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 01/Heap Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 02/Heap Lecture 02.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 02/Heap Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 03/Heap Lecture 03.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 03/Heap Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 04/Heap Lecture 04.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 04/Heap Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 05/Heap Lecture 05.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 05/Heap Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 06/Heap Lecture 06.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 06/Heap Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 07/Heap Lecture 07.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 07/Heap Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 08/Heap Lecture 08.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 08/Heap Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 09/Heap Lecture 09.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 09/Heap Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heap/Heap Lecture 10/Heap Lecture 10.iml" filepath="$PROJECT_DIR$/Heap/Heap Lecture 10/Heap Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Heap Question/Heap Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Heap Question/Heap Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Heap Questions/Heap Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Heap Questions/Heap Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Heaps Questions/Heaps Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Heaps Questions/Heaps Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Insertion Sort/Insertion Sort.iml" filepath="$PROJECT_DIR$/Sortings/Insertion Sort/Insertion Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learn Data Structure and Algorithm in Java.iml" filepath="$PROJECT_DIR$/Learn Data Structure and Algorithm in Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 01/Lecture 01.iml" filepath="$PROJECT_DIR$/Array/Lecture 01/Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 02/Lecture 02.iml" filepath="$PROJECT_DIR$/Array/Lecture 02/Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 03/Lecture 03.iml" filepath="$PROJECT_DIR$/Array/Lecture 03/Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 04/Lecture 04.iml" filepath="$PROJECT_DIR$/Array/Lecture 04/Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 05/Lecture 05.iml" filepath="$PROJECT_DIR$/Array/Lecture 05/Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 06/Lecture 06.iml" filepath="$PROJECT_DIR$/Array/Lecture 06/Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 07/Lecture 07.iml" filepath="$PROJECT_DIR$/Array/Lecture 07/Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 08/Lecture 08.iml" filepath="$PROJECT_DIR$/Array/Lecture 08/Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 09/Lecture 09.iml" filepath="$PROJECT_DIR$/Array/Lecture 09/Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 10/Lecture 10.iml" filepath="$PROJECT_DIR$/Array/Lecture 10/Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 11/Lecture 11.iml" filepath="$PROJECT_DIR$/Array/Lecture 11/Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 12/Lecture 12.iml" filepath="$PROJECT_DIR$/Array/Lecture 12/Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 13/Lecture 13.iml" filepath="$PROJECT_DIR$/Array/Lecture 13/Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 14/Lecture 14.iml" filepath="$PROJECT_DIR$/Array/Lecture 14/Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 15/Lecture 15.iml" filepath="$PROJECT_DIR$/Array/Lecture 15/Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 16/Lecture 16.iml" filepath="$PROJECT_DIR$/Array/Lecture 16/Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 17/Lecture 17.iml" filepath="$PROJECT_DIR$/Array/Lecture 17/Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 18/Lecture 18.iml" filepath="$PROJECT_DIR$/Array/Lecture 18/Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 19/Lecture 19.iml" filepath="$PROJECT_DIR$/Array/Lecture 19/Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 20/Lecture 20.iml" filepath="$PROJECT_DIR$/Array/Lecture 20/Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 21/Lecture 21.iml" filepath="$PROJECT_DIR$/Array/Lecture 21/Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 22/Lecture 22.iml" filepath="$PROJECT_DIR$/Array/Lecture 22/Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 23/Lecture 23.iml" filepath="$PROJECT_DIR$/Array/Lecture 23/Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Lecture 24/Lecture 24.iml" filepath="$PROJECT_DIR$/Array/Lecture 24/Lecture 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode Blind 75/Leetcode Blind 75.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode Blind 75/Leetcode Blind 75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode Interview Top 150/Leetcode Interview Top 150.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode Interview Top 150/Leetcode Interview Top 150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 01/LinkedList Lecture 01.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 01/LinkedList Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 02/LinkedList Lecture 02.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 02/LinkedList Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 03/LinkedList Lecture 03.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 03/LinkedList Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 04/LinkedList Lecture 04.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 04/LinkedList Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 05/LinkedList Lecture 05.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 05/LinkedList Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 06/LinkedList Lecture 06.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 06/LinkedList Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 07/LinkedList Lecture 07.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 07/LinkedList Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 08/LinkedList Lecture 08.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 08/LinkedList Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 09/LinkedList Lecture 09.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 09/LinkedList Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 10/LinkedList Lecture 10.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 10/LinkedList Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 11/LinkedList Lecture 11.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 11/LinkedList Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 12/LinkedList Lecture 12.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 12/LinkedList Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 13/LinkedList Lecture 13.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 13/LinkedList Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 14/LinkedList Lecture 14.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 14/LinkedList Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 15/LinkedList Lecture 15.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 15/LinkedList Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 16/LinkedList Lecture 16.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 16/LinkedList Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 17/LinkedList Lecture 17.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 17/LinkedList Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 18/LinkedList Lecture 18.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 18/LinkedList Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 19/LinkedList Lecture 19.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 19/LinkedList Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 20/LinkedList Lecture 20.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 20/LinkedList Lecture 20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 21/LinkedList Lecture 21.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 21/LinkedList Lecture 21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 22/LinkedList Lecture 22.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 22/LinkedList Lecture 22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 23/LinkedList Lecture 23.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 23/LinkedList Lecture 23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 24/LinkedList Lecture 24.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 24/LinkedList Lecture 24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 25/LinkedList Lecture 25.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 25/LinkedList Lecture 25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 26/LinkedList Lecture 26.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 26/LinkedList Lecture 26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 27/LinkedList Lecture 27.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 27/LinkedList Lecture 27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 28/LinkedList Lecture 28.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 28/LinkedList Lecture 28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList Lecture 29/LinkedList Lecture 29.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList Lecture 29/LinkedList Lecture 29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/LinkedList Question/LinkedList Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/LinkedList Question/LinkedList Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/LinkedList Questions/LinkedList Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/LinkedList Questions/LinkedList Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/LinkedLists Question/LinkedLists Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/LinkedLists Question/LinkedLists Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Love Babbar.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Love Babbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 01/Maths For DSA Lecture 01.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 01/Maths For DSA Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 02/Maths For DSA Lecture 02.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 02/Maths For DSA Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 03/Maths For DSA Lecture 03.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 03/Maths For DSA Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 04/Maths For DSA Lecture 04.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 04/Maths For DSA Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 05/Maths For DSA Lecture 05.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 05/Maths For DSA Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 06/Maths For DSA Lecture 06.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 06/Maths For DSA Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 07/Maths For DSA Lecture 07.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 07/Maths For DSA Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 08/Maths For DSA Lecture 08.iml" filepath="$PROJECT_DIR$/Maths For DSA/Maths For DSA Lecture 08/Maths For DSA Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Matrix Questions/Matrix Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Matrix Questions/Matrix Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode 150/Neetcode 150.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode 150/Neetcode 150.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode 75/Neetcode 75.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode 75/Neetcode 75.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Neetcode/Neetcode All/Neetcode All.iml" filepath="$PROJECT_DIR$/Neetcode/Neetcode All/Neetcode All.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 01/OOPS Lecture 01.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 01/OOPS Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 02/OOPS Lecture 02.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 02/OOPS Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 03/OOPS Lecture 03.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 03/OOPS Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS Lecture 04/OOPS Lecture 04.iml" filepath="$PROJECT_DIR$/OOPS/OOPS Lecture 04/OOPS Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pattern Printing Problems/Pattern Printing Problems.iml" filepath="$PROJECT_DIR$/Pattern Printing Problems/Pattern Printing Problems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Queue Question/Queue Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Queue Question/Queue Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 01/Queues Lecture 01.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 01/Queues Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 02/Queues Lecture 02.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 02/Queues Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 03/Queues Lecture 03.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 03/Queues Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 04/Queues Lecture 04.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 04/Queues Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues Lecture 05/Queues Lecture 05.iml" filepath="$PROJECT_DIR$/Queues/Queues Lecture 05/Queues Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Queues Question/Queues Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Queues Question/Queues Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Queues Questions/Queues Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Queues Questions/Queues Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Quick Sort/Quick Sort.iml" filepath="$PROJECT_DIR$/Sortings/Quick Sort/Quick Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Radix Sort/Radix Sort.iml" filepath="$PROJECT_DIR$/Sortings/Radix Sort/Radix Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion.iml" filepath="$PROJECT_DIR$/Recursion/Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 01/Recursion Lecture 01.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 01/Recursion Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 02/Recursion Lecture 02.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 02/Recursion Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 03/Recursion Lecture 03.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 03/Recursion Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 04/Recursion Lecture 04.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 04/Recursion Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 05/Recursion Lecture 05.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 05/Recursion Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 06/Recursion Lecture 06.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 06/Recursion Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 07/Recursion Lecture 07.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 07/Recursion Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 08/Recursion Lecture 08.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 08/Recursion Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 09/Recursion Lecture 09.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 09/Recursion Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 10/Recursion Lecture 10.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 10/Recursion Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 11/Recursion Lecture 11.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 11/Recursion Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 12/Recursion Lecture 12.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 12/Recursion Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 13/Recursion Lecture 13.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 13/Recursion Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 14/Recursion Lecture 14.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 14/Recursion Lecture 14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 15/Recursion Lecture 15.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 15/Recursion Lecture 15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 16/Recursion Lecture 16.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 16/Recursion Lecture 16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 17/Recursion Lecture 17.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 17/Recursion Lecture 17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 18/Recursion Lecture 18.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 18/Recursion Lecture 18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Recursion/Recursion Lecture 19/Recursion Lecture 19.iml" filepath="$PROJECT_DIR$/Recursion/Recursion Lecture 19/Recursion Lecture 19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/SDE Sheet.iml" filepath="$PROJECT_DIR$/SDE Sheet/SDE Sheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Searching and Sorting Question/Searching and Sorting Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Searching and Sorting Question/Searching and Sorting Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Searching and Sorting Questions/Searching and Sorting Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Searching and Sorting Questions/Searching and Sorting Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Searching and Sortings Question/Searching and Sortings Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Searching and Sortings Question/Searching and Sortings Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Segement Trees Question/Segement Trees Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Segement Trees Question/Segement Trees Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Segment Trees/Segment Trees.iml" filepath="$PROJECT_DIR$/Segment Trees/Segment Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Selection Sort/Selection Sort.iml" filepath="$PROJECT_DIR$/Sortings/Selection Sort/Selection Sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 01/Sliding Window Lecture 01.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 01/Sliding Window Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 02/Sliding Window Lecture 02.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 02/Sliding Window Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 03/Sliding Window Lecture 03.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 03/Sliding Window Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 04/Sliding Window Lecture 04.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 04/Sliding Window Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 05/Sliding Window Lecture 05.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 05/Sliding Window Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 06/Sliding Window Lecture 06.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 06/Sliding Window Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 07/Sliding Window Lecture 07.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 07/Sliding Window Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 08/Sliding Window Lecture 08.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 08/Sliding Window Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 09/Sliding Window Lecture 09.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 09/Sliding Window Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 10/Sliding Window Lecture 10.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 10/Sliding Window Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 11/Sliding Window Lecture 11.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 11/Sliding Window Lecture 11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 12/Sliding Window Lecture 12.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 12/Sliding Window Lecture 12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 13/Sliding Window Lecture 13.iml" filepath="$PROJECT_DIR$/Sliding Window/Sliding Window Lecture 13/Sliding Window Lecture 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sortings/Sortings.iml" filepath="$PROJECT_DIR$/Sortings/Sortings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 01/Stack Lecture 01.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 01/Stack Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 02/Stack Lecture 02.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 02/Stack Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 03/Stack Lecture 03.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 03/Stack Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 04/Stack Lecture 04.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 04/Stack Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 05/Stack Lecture 05.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 05/Stack Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 06/Stack Lecture 06.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 06/Stack Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack Lecture 07/Stack Lecture 07.iml" filepath="$PROJECT_DIR$/Stack/Stack Lecture 07/Stack Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Stack Question/Stack Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Stack Question/Stack Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Stack Questions/Stack Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Stack Questions/Stack Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Coder Army/Stacks Question/Stacks Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Coder Army/Stacks Question/Stacks Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 01/Strings Lecture 01.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 01/Strings Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 02/Strings Lecture 02.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 02/Strings Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 03/Strings Lecture 03.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 03/Strings Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 04/Strings Lecture 04.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 04/Strings Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 05/Strings Lecture 05.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 05/Strings Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 06/Strings Lecture 06.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 06/Strings Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 07/Strings Lecture 07.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 07/Strings Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 08/Strings Lecture 08.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 08/Strings Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 09/Strings Lecture 09.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 09/Strings Lecture 09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings Lecture 10/Strings Lecture 10.iml" filepath="$PROJECT_DIR$/Strings/Strings Lecture 10/Strings Lecture 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Strings Question/Strings Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Strings Question/Strings Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries.iml" filepath="$PROJECT_DIR$/Tries/Tries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 01/Tries Lecture 01.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 01/Tries Lecture 01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 02/Tries Lecture 02.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 02/Tries Lecture 02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 03/Tries Lecture 03.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 03/Tries Lecture 03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 04/Tries Lecture 04.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 04/Tries Lecture 04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 05/Tries Lecture 05.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 05/Tries Lecture 05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 06/Tries Lecture 06.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 06/Tries Lecture 06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 07/Tries Lecture 07.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 07/Tries Lecture 07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tries/Tries Lecture 08/Tries Lecture 08.iml" filepath="$PROJECT_DIR$/Tries/Tries Lecture 08/Tries Lecture 08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Apna College/Tries Question/Tries Question.iml" filepath="$PROJECT_DIR$/SDE Sheet/Apna College/Tries Question/Tries Question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDE Sheet/Love Babbar/Tries Questions/Tries Questions.iml" filepath="$PROJECT_DIR$/SDE Sheet/Love Babbar/Tries Questions/Tries Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Two Pointers/Two Pointers.iml" filepath="$PROJECT_DIR$/Two Pointers/Two Pointers.iml" />
+    </modules>
+  </component>
+</project>
